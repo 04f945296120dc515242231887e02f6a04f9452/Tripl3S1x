@@ -5,7 +5,7 @@
 <p align="center"><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100px" /><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100px" /><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100px" /><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100px" /><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100px" /><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100px" /></p>
 <p align="center"><img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="50px">   <img src="https://media.discordapp.net/attachments/1114142143930454019/1115699573919322203/image.png?width=1080&height=79" width="600px">   <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="50px"></p>
 <p align="center">
-  <a href="https://github.com/trip3s1x">
+  <a href="https://github.com/tripl3s1x">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tripl3S1x&theme=transparent" />
   </a>
   <br><br>
