@@ -9,7 +9,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tripl3S1x&theme=transparent" />
   </a>
   <br><br>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/tripl3s1x">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tripl3S1x&hide_border=true&card_width=338&theme=transparent" />
   </a>
 </p>
